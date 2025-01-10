@@ -29,5 +29,9 @@ public class Zmienne {
         System.out.print("Mój\n string: " + napis);
 
         boolean sun = false; //true
+
+        // https://github.com/przemjan/trzeciaGgr2r2024
+
+        //Tworzenie i testowanie programów i aplikacji.
     }
 }
